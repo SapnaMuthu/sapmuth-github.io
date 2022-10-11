@@ -1,5 +1,3 @@
-# Sapna Maduraimuthu 
-
 A software engineer with hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance testng with familarity in all the phases of software devlopment life cycle with atleast 3 years of experience.
 
 ### Interests:
