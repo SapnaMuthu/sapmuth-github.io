@@ -31,5 +31,5 @@ Our Project idea is to develop a Food Recipe App that shows the user about the i
 With my prior experience on developing a React Native App by integrating with the Firebase Database where I developed a Link Up App as described under the Projects Section, I believe that I will be able to develop the Food recipe as well. 
 
 ## Term Project Link:
-!(https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites) 
+https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites 
 
