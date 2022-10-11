@@ -32,4 +32,4 @@ With my prior experience on developing a React Native App by integrating with th
 
 ## Term Project Link:
 https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites 
-
+<a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites">Term Project</a>
