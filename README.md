@@ -24,10 +24,10 @@ A software engineer with hands-on experience in all levels of testing, including
 - Grand Valley State University:(2022 - 2023) Masters in Computer Science with the concentration in Database Management Systems
 - R.M.D Engineering College:(2014 - 2018) Bachelors in Information Technology
 
-## Upcoming Term Project:
+## Upcoming Term Project: `#0d1117`
 
 Our Project idea is to develop a Food Recipe App that shows the user about the instructions on how to prepare a specific food item along with the extra information like the ingredients, nutrients, servings, and preparation time. The user can search with a particular keyword like "Pizza" and it would display all the available food recipes for Pizza. Afterward, the user can add a specific food recipe to the wish list if they like the recipe and scroll through the wish-listed food recipes later.
 
-With my prior experience on developing a React Native App by integrating with the Firebase Database where I developed a Link Up App as described under the Projects Section, I believe that I will be able to develop the Food recipe as well. 
+With my prior experience on developing a React Native App by integrating with the Firebase Database where I developed a Link Up App as described under the Projects Section, I believe that I will be able to develop the Food recipe as well. `#0d1117`
 
 <a href="https://github.com/SapnaMuthu/GVSU-CIS641-Dazzling-Dynamites">Term Project</a>
