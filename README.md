@@ -1,7 +1,8 @@
 A software engineer with hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance testng with familarity in all the phases of software devlopment life cycle with atleast 3 years of experience.
 
 ## Interests:
-<h2 span style="color:blue">some *Interests* text</span>
+<h2 span style="color:blue"> *Interests*  </span>
+</h2>
 - I love travelling to new places and making memories.
 - I enjoy playing badminton.
 - I am interested in Machine Learning and would like to build something really cool which would be useful for me in my daily routine.
