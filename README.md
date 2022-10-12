@@ -1,8 +1,8 @@
 A software engineer with hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance testng with familarity in all the phases of software devlopment life cycle with atleast 3 years of experience.
 
 ## Interests:
-<h2 span style="color:blue;;font-weight:700;font-style:italics"> Interests </span>
-</h2>
+<h2 span style="color:blue;;font-weight:700;font-style:italic"> Interests:/>
+
 
 <span style="color:green;font-weight:700;font-size:20px"> 
 markdown color font styles
