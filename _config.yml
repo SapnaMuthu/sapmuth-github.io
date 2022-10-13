@@ -2,7 +2,7 @@ title: Sapna Maduraimuthu
 remote_theme:  pages-themes/leap-day@v0.2.0
 lang: en-US
 branch: main
-
+exclude: ['./README.md']
 navbar-col: "#ccccff"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
